@@ -1,0 +1,12 @@
+{
+  "name": "apex-deriv-backend",
+  "version": "1.0.0",
+  "description": "OAuth Backend for Deriv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
